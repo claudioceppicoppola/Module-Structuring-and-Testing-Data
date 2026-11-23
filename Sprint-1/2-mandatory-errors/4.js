@@ -1,2 +1,6 @@
-const 12HourClockTime = "20:53";
-const 24hourClockTime = "08:53";
+// Variable names cannot start with a digit (0-9) in JavaScript
+const twelveHourClockTime = "08:53";
+const twentyFourHourClockTime = "20:53";
+
+console.log(twelveHourClockTime);
+console.log(twentyFourHourClockTime);
